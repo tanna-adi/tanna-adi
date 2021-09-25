@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanna-adi
+- 👋 Hi, I’m Tanna Aditya
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Pyton and SQL
 - 💞️ I’m looking to collaborate on Projects based on Python
